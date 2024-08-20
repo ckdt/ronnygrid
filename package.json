@@ -12,8 +12,11 @@
   "dependencies": {
     "@astrojs/check": "^0.9.3",
     "@fontsource/silkscreen": "^5.0.21",
+    "@iconify-json/tabler": "^1.1.120",
     "astro": "^4.14.2",
+    "astro-icon": "^1.1.1",
     "astro-integration-lottie": "^0.3.0",
+    "lottie-colorify": "^0.8.0",
     "lottie-web": "^5.12.2",
     "typescript": "^5.5.4"
   }
